@@ -36,3 +36,11 @@ Delete User
 
 Endpoint: DELETE /users/delete/{id}
 Description: Deletes a specific user from the MyFinEx App.
+
+![UserMS](https://github.com/MentalCoder91/myfinex-user-service/assets/97496417/5e1f5a25-65d6-4db0-aaa5-80058276fe85)
+
+![schemasUser](https://github.com/MentalCoder91/myfinex-user-service/assets/97496417/212f2b9b-e959-485e-96f2-af1d17bdd18c)
+
+
+
+
